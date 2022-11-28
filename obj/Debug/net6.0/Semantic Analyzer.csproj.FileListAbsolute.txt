@@ -1,0 +1,15 @@
+G:\Codes\Visual Studio\Complier Principle\Semantic Analyzer\bin\Debug\net6.0\Semantic Analyzer.exe
+G:\Codes\Visual Studio\Complier Principle\Semantic Analyzer\bin\Debug\net6.0\Semantic Analyzer.deps.json
+G:\Codes\Visual Studio\Complier Principle\Semantic Analyzer\bin\Debug\net6.0\Semantic Analyzer.runtimeconfig.json
+G:\Codes\Visual Studio\Complier Principle\Semantic Analyzer\bin\Debug\net6.0\Semantic Analyzer.dll
+G:\Codes\Visual Studio\Complier Principle\Semantic Analyzer\bin\Debug\net6.0\Semantic Analyzer.pdb
+G:\Codes\Visual Studio\Complier Principle\Semantic Analyzer\obj\Debug\net6.0\Semantic Analyzer.csproj.AssemblyReference.cache
+G:\Codes\Visual Studio\Complier Principle\Semantic Analyzer\obj\Debug\net6.0\Semantic Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\Visual Studio\Complier Principle\Semantic Analyzer\obj\Debug\net6.0\Semantic Analyzer.AssemblyInfoInputs.cache
+G:\Codes\Visual Studio\Complier Principle\Semantic Analyzer\obj\Debug\net6.0\Semantic Analyzer.AssemblyInfo.cs
+G:\Codes\Visual Studio\Complier Principle\Semantic Analyzer\obj\Debug\net6.0\Semantic Analyzer.csproj.CoreCompileInputs.cache
+G:\Codes\Visual Studio\Complier Principle\Semantic Analyzer\obj\Debug\net6.0\Semantic Analyzer.dll
+G:\Codes\Visual Studio\Complier Principle\Semantic Analyzer\obj\Debug\net6.0\refint\Semantic Analyzer.dll
+G:\Codes\Visual Studio\Complier Principle\Semantic Analyzer\obj\Debug\net6.0\Semantic Analyzer.pdb
+G:\Codes\Visual Studio\Complier Principle\Semantic Analyzer\obj\Debug\net6.0\Semantic Analyzer.genruntimeconfig.cache
+G:\Codes\Visual Studio\Complier Principle\Semantic Analyzer\obj\Debug\net6.0\ref\Semantic Analyzer.dll

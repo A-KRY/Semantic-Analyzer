@@ -1,0 +1,310 @@
+Step 1
+CurrSGN: i
+symbolStack: END E 
+
+Step 2
+CurrSGN: i
+symbolStack: END E1 T 
+
+Step 3
+CurrSGN: i
+symbolStack: END E1 T1 F 
+
+Step 4
+CurrSGN: i
+symbolStack: END E1 T1 i 
+oprStack: 
+Read next symbol.
+
+Step 5
+CurrSGN: MU
+symbolStack: END E1 T1 
+
+Step 6
+CurrSGN: MU
+symbolStack: END E1 T1 F MU 
+oprStack: * 
+Read next symbol.
+
+Step 7
+CurrSGN: LB
+symbolStack: END E1 T1 F 
+
+Step 8
+CurrSGN: LB
+symbolStack: END E1 T1 RB E LB 
+oprStack: * ( 
+Read next symbol.
+
+Step 9
+CurrSGN: i
+symbolStack: END E1 T1 RB E 
+
+Step 10
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T 
+
+Step 11
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 F 
+
+Step 12
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 i 
+oprStack: * ( 
+Read next symbol.
+
+Step 13
+CurrSGN: PL
+symbolStack: END E1 T1 RB E1 T1 
+
+Step 14
+CurrSGN: PL
+symbolStack: END E1 T1 RB E1 
+
+Step 15
+CurrSGN: PL
+symbolStack: END E1 T1 RB E1 T PL 
+oprStack: * ( + 
+Read next symbol.
+
+Step 16
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T 
+
+Step 17
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 F 
+
+Step 18
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 i 
+oprStack: * ( + 
+Read next symbol.
+
+Step 19
+CurrSGN: RB
+symbolStack: END E1 T1 RB E1 T1 
+
+Step 20
+CurrSGN: RB
+symbolStack: END E1 T1 RB E1 
+
+Step 21
+CurrSGN: RB
+symbolStack: END E1 T1 RB 
+(+, x, 6, T1)
+oprStack: * 
+Read next symbol.
+
+Step 22
+CurrSGN: DI
+symbolStack: END E1 T1 
+
+Step 23
+CurrSGN: DI
+symbolStack: END E1 T1 F DI 
+(*, 3, T1, T2)
+oprStack: / 
+Read next symbol.
+
+Step 24
+CurrSGN: LB
+symbolStack: END E1 T1 F 
+
+Step 25
+CurrSGN: LB
+symbolStack: END E1 T1 RB E LB 
+oprStack: / ( 
+Read next symbol.
+
+Step 26
+CurrSGN: i
+symbolStack: END E1 T1 RB E 
+
+Step 27
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T 
+
+Step 28
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 F 
+
+Step 29
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 i 
+oprStack: / ( 
+Read next symbol.
+
+Step 30
+CurrSGN: MI
+symbolStack: END E1 T1 RB E1 T1 
+
+Step 31
+CurrSGN: MI
+symbolStack: END E1 T1 RB E1 
+
+Step 32
+CurrSGN: MI
+symbolStack: END E1 T1 RB E1 T MI 
+oprStack: / ( - 
+Read next symbol.
+
+Step 33
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T 
+
+Step 34
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 F 
+
+Step 35
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 i 
+oprStack: / ( - 
+Read next symbol.
+
+Step 36
+CurrSGN: MU
+symbolStack: END E1 T1 RB E1 T1 
+
+Step 37
+CurrSGN: MU
+symbolStack: END E1 T1 RB E1 T1 F MU 
+oprStack: / ( - * 
+Read next symbol.
+
+Step 38
+CurrSGN: LB
+symbolStack: END E1 T1 RB E1 T1 F 
+
+Step 39
+CurrSGN: LB
+symbolStack: END E1 T1 RB E1 T1 RB E LB 
+oprStack: / ( - * ( 
+Read next symbol.
+
+Step 40
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 RB E 
+
+Step 41
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 RB E1 T 
+
+Step 42
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 RB E1 T1 F 
+
+Step 43
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 RB E1 T1 i 
+oprStack: / ( - * ( 
+Read next symbol.
+
+Step 44
+CurrSGN: PL
+symbolStack: END E1 T1 RB E1 T1 RB E1 T1 
+
+Step 45
+CurrSGN: PL
+symbolStack: END E1 T1 RB E1 T1 RB E1 
+
+Step 46
+CurrSGN: PL
+symbolStack: END E1 T1 RB E1 T1 RB E1 T PL 
+oprStack: / ( - * ( + 
+Read next symbol.
+
+Step 47
+CurrSGN: LB
+symbolStack: END E1 T1 RB E1 T1 RB E1 T 
+
+Step 48
+CurrSGN: LB
+symbolStack: END E1 T1 RB E1 T1 RB E1 T1 F 
+
+Step 49
+CurrSGN: LB
+symbolStack: END E1 T1 RB E1 T1 RB E1 T1 RB E LB 
+oprStack: / ( - * ( + ( 
+Read next symbol.
+
+Step 50
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 RB E1 T1 RB E 
+
+Step 51
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 RB E1 T1 RB E1 T 
+
+Step 52
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 RB E1 T1 RB E1 T1 F 
+
+Step 53
+CurrSGN: i
+symbolStack: END E1 T1 RB E1 T1 RB E1 T1 RB E1 T1 i 
+oprStack: / ( - * ( + ( 
+Read next symbol.
+
+Step 54
+CurrSGN: RB
+symbolStack: END E1 T1 RB E1 T1 RB E1 T1 RB E1 T1 
+
+Step 55
+CurrSGN: RB
+symbolStack: END E1 T1 RB E1 T1 RB E1 T1 RB E1 
+
+Step 56
+CurrSGN: RB
+symbolStack: END E1 T1 RB E1 T1 RB E1 T1 RB 
+oprStack: / ( - * ( + 
+Read next symbol.
+
+Step 57
+CurrSGN: RB
+symbolStack: END E1 T1 RB E1 T1 RB E1 T1 
+
+Step 58
+CurrSGN: RB
+symbolStack: END E1 T1 RB E1 T1 RB E1 
+
+Step 59
+CurrSGN: RB
+symbolStack: END E1 T1 RB E1 T1 RB 
+(+, 7.31, z, T3)
+oprStack: / ( - * 
+Read next symbol.
+
+Step 60
+CurrSGN: RB
+symbolStack: END E1 T1 RB E1 T1 
+
+Step 61
+CurrSGN: RB
+symbolStack: END E1 T1 RB E1 
+
+Step 62
+CurrSGN: RB
+symbolStack: END E1 T1 RB 
+(*, y, T3, T4)
+(-, 2, T4, T5)
+oprStack: / 
+Read next symbol.
+
+Step 63
+CurrSGN: END
+symbolStack: END E1 T1 
+
+Step 64
+CurrSGN: END
+symbolStack: END E1 
+
+Step 65
+CurrSGN: END
+symbolStack: END 
+(/, T2, T5, T6)
+
+Finish.
+
